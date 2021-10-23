@@ -1,0 +1,178 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+}
+#header{
+    display: flex;
+    margin-bottom: 10px;
+}
+.header-site{
+    width: 50%;
+    padding-left: 3%;
+}
+#header .header-site:nth-child(1){
+    margin-top: 70px;
+}
+#header .header-area{
+    margin-bottom: 100px;
+}
+
+
+.link-color-one{
+    padding: 10px 40px;
+    text-decoration:none;
+    background-image: linear-gradient(red, orange);
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+    
+}
+
+.text-color{
+    color: orange;
+}
+h1{
+    font-size: 42px;
+}
+
+
+
+#container{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+.container-part{
+    width: 50%;
+    padding-right: 10%;
+    margin-top: 100px;
+}
+.container-part img{
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 20px;
+}
+.container-part div{
+    margin-bottom: 80px;
+
+}
+.link-color-2{
+    padding: 10px 40px;
+    text-decoration:none;
+    background-image: linear-gradient(red, orange);
+    border-radius: 30px;
+    color: white;
+    
+
+}
+#food-header{
+    text-align: center;    
+
+}
+.food-header-area h2{
+    font-size: 35px;
+    color: rgb(39, 35, 35);
+    margin-top: 70px;
+    font-weight: 680;
+}
+.food-header-area p{
+    width: 50%;
+    color: black;
+    margin: 0% auto;
+    font-size: 16px;
+}
+
+
+
+.my-food-name img{
+    width: 300px;
+    height: 250px;
+}
+
+.my-food-menu{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: 20px 40px;
+}
+
+.my-food-name{
+    padding: 15px;
+    box-shadow:rgba(214, 214, 223, 0.842)  0px 7px 20px 5px;
+    margin: 25px 35px;
+    border-radius: 20px;
+    width: 300px;
+
+}
+.my-food-name img{
+    border-radius: 20px;
+}
+.my-food-name h2{
+    font-size: 26px;
+    font-weight: 300;
+    color: rgb(54, 51, 51);
+}
+.my-food-name p{
+    text-align: justify;
+}
+
+#subscribe-part{
+    margin: 50px 30px ;
+}
+.subscribe-parts{
+    display: flex;
+    padding: 0px;
+    box-shadow: rgba(100, 100, 111, 0.2)0px 7px 20px 5px;
+    margin-left: 43px;
+    border-radius: 20px;
+    width: 89%;
+}
+
+.subscribe-parts .subscribe-part-area{
+    padding: 20px;
+    width: 27%;
+    margin: 0 auto;
+    text-align: center;
+}
+.subscribe-parts .subscribe-part-area h2{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.subscribe-parts .subscribe-part-area p{
+    font-weight: 500;
+    
+} 
+
+
+
+
+.footer-section{
+    background-color: rgb(3, 3, 22);
+    height: 200px;
+    margin-top: 10px;
+}
+
+.footer-section div{
+    padding-top: 20px;
+}
+
+.footer-section div h2{
+    color: gray;
+   text-align: center; 
+}
+
+.footer-section div p{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.span-list{
+    color: rgb(185, 61, 15);
+}
+
